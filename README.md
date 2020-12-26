@@ -1,2 +1,2 @@
 # balancing-robot-control-arduino
-Arduino based balancing robot control (PID, PD-P-PD)
+Pololu Inverted Pendulum Robot Control - Arduino based balancing robot control (PID, PD, PD-P-PD)
